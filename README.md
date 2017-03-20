@@ -9,3 +9,5 @@ The main module is *betGame*.
 ## Developer
 
 Rubem Kalebe (rubemkalebe@gmail.com)
+
+Repository link: https://github.com/rubemkalebe/IMDBetGame/
